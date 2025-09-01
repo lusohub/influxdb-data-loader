@@ -12,7 +12,7 @@ import (
 func main() {
 	const (
 		influxURL   = "http://localhost:8086"
-		influxToken = "admin:admin123"
+		influxToken = ""
 		org         = "my-org"
 		bucket      = "my-bucket"
 	)
